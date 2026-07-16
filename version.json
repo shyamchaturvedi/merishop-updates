@@ -1,0 +1,6 @@
+{
+  "version": "1.0.3",
+  "build": 13,
+  "whats_new": "1. Upgraded Settings UI with Verified Profile Badge.\n2. Complete Offline Auto-backup system with zero preference loss.\n3. Added Shop Identity Hub with Digital Visiting Card & QR codes.\n4. Installed Business Planner & Calendar with Checklists.\n5. Implemented Bulk Stock Adjustments and Stock Analytics.",
+  "force": false
+}
