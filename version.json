@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "build": 13,
-  "whats_new": "1. Upgraded Settings UI with Verified Profile Badge.\n2. Complete Offline Auto-backup system with zero preference loss.\n3. Added Shop Identity Hub with Digital Visiting Card & QR codes.\n4. Installed Business Planner & Calendar with Checklists.\n5. Implemented Bulk Stock Adjustments and Stock Analytics.",
+  "version": "1.0.2",
+  "build": 12,
+  "whats_new": "1. Added Udhari Status & Khata Edit/Delete feature.\n2. Introduced Premium Subscription Plans (My Plan).\n3. Improved Print Receipt Layout with bottom branding.\n4. New Bottom Navigation Bar for faster access.\n5. General UI and Performance improvements.",
   "force": false
 }
